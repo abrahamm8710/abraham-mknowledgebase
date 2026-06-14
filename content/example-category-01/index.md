@@ -1,7 +1,7 @@
 ---
 My Favorite Video Games: Category 01
 ---
-## The Category 01 category index page
+## My Favorite Video Games
 
 ### What is this page?
 Welcome, this site will show and highlight games that I enjoy playing, whether they are new or from the past, games that are fun for me and the impact they have had on me.
