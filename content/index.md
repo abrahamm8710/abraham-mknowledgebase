@@ -5,6 +5,14 @@ title: Template for Knowledge Base Docs Websites
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
+
+## Main Categories
+- [[action-adventure/index|action adventure games]]
+- [[racing/index|racing games]]
+- [[shooters/index|shooter games]]
+- [[retro-classic/index|retro and classic games]]
+- [[indie-games/index|indie games]]
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
