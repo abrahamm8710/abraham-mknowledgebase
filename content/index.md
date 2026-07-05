@@ -8,7 +8,7 @@ This is the index page (`content/index.md`) of your knowledge base docs. It serv
 
 ## Main Categories
 - [[action-adventure/index|action adventure games]]
-- [[racing/index|racing games]]
+- [[Racing/index|racing games]]
 - [[shooters/index|shooter games]]
 - [[retro-classic/index|retro and classic games]]
 - [[indie-games/index|indie games]]
