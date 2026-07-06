@@ -9,3 +9,12 @@ This category will explore different types of racing games, their game history, 
 ## Related Categories
 
 There are some racing games that include exploration and storytelling elements similar to [[action-adventure/index|Action Adventure Games]].
+
+## Pages in This Category
+
+- [[Mario Kart]]
+- [[Forza Horizon]]
+- [[Need For Speed]]
+- [[MotorStorm (PS3 exclusive)]]
+- [[Racing Game History]]
+- [[Sonic Racing]]
