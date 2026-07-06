@@ -28,7 +28,7 @@ jobs:
           mkdir -p quartz/content
           cp -rf content/* quartz/content/
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 'lts/*'
           cache: 'npm'
