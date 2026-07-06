@@ -24,7 +24,7 @@ jobs:
           fetch-depth: 0 # Fetch all history
       - name: Apply configurations
         run: |
-          cp quartz.config.ts quartz.layout.ts quartz
+          cp quartz.config.ts quartz.layout.ts quartz/
           mkdir -p quartz/content
           cp -rf content/* quartz/content/
       - name: Setup Node.js
