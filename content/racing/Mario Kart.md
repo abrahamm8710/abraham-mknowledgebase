@@ -6,7 +6,8 @@ title: Mario Kart
 
 Mario Kart is a racing video game series that was developed and created by Nintendo. The first entry of the Mario Kart series began with Super Mario Kart that released in 1992 on the Super Nintendo Entertainment System. Nintendo has since made several more successful Mario Kart games, with the latest title released was Mario Kart World. The Mario Kart Franchise has been one of Nintendo's most successful franchises. 
 
-![Mario Kart 8 Deluxe Cover](https://images.launchbox-app.com/73e2daa0-393d-4ace-8f5b-4f1df1ee2817.png)
+![Mario Kart 8 Deluxe Cover](../assets/mariokart8deluxe.png)
+![[assets/Mario Kart 8 Deluxeguide.pdf]]
 
 ## Gameplay
 
