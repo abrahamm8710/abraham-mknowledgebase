@@ -15,6 +15,7 @@ Based off the Speed Racer Movie (2008), this game featured futuristic vehicles a
 This game was released in 2010, which was a arcade style racing vehicular combat game. It was developed by Bizarre Creations and published by Activision. Blur's racing style combines real world cars with vehicular combat and arcade style controls. 
 
 ### Cars 2 
+![[Cars2VGCover.jpg]]
 Based off the Cars 2 movie (2011), this game allowed players to race as their favorite characters from the CARS franchise, such as Lightning McQueen and Mater. You were able to race one another in regular races or battle races with weapons, spy missions, and more. 
 
 ### Angry Birds Go!
