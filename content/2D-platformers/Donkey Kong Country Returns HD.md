@@ -21,3 +21,8 @@ Donkey Kong is a side scrolling 2D platformer that involves fast paced movement,
 I like playing this game a lot because of its amazing level design. Each level felt refreshing and brought new challenges, which made the game more fun for me. I enjoyed playing the rocket barrel levels because it required skill and accuracy to beat, if I died one time I start all over again and again. The soundtrack is another reason I like this game because it had enjoyable music to hear for each level. Overall, Donkey Kong Country Returns is one of my favorite games I have played.
 
 ![[donkey_kong_countryhd3.jpg]]
+
+## Related Pages
+
+- [[2D-platformers/index|index]]
+- [[New Super Mario Bros. Wii]]
