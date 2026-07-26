@@ -4,11 +4,13 @@ title: Astro Bot
 
 # Astro Bot
 ![[AstroBot2.png]]
+
 ## Overview of Astro Bot
 
 Astro Bot released in 2024 is a 3D platforming action adventure game developed by Team Asobi and published by PlayStation (Sony), exclusively for the PlayStation 5. The story of the game is about a robot named Astro Bot who goes on a mission to rescue his robot friends and crew who get scattered across the universe when their spaceship was attacked by a mysterious alien. Throughout this game, players get to travel across a variety of planets from different galaxies, overcoming difficult platforming challenges, and discover a lot of references from different franchises of PlayStation's history. Astro Bot is well praised and received for its amazing visuals and level design, and its use of the PS5 dual sense controller. Overall it is an enjoyable experience for lots of PlayStation fans. 
 
 ## Astro Bot Gameplay 
+
 ![[AstroBotGP1.png]]
 
 This game follows a third person 3D platformer that focuses on exploration, accurate jumping, and creative level design. Players get to control Astro Bot as he jumps, runs, climbs, glides, and use powerups to battle enemies, while at the same time collect coins, missing robots, puzzle pieces throughout each level. Every world or galaxy introduces new mechanics, environments, and obstacles that keeps the gameplay engaging and fun. As you progress throughout the game.
