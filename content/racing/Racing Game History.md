@@ -4,7 +4,7 @@ title: Racing Game History
 
 ## Overview of Racing Games
 
-Racing Games have improved over time from simple arcade or 16bit experiences to large open world and real world simulators. 
+Racing Games have improved over time from simple arcade or 16bit experiences to large open world and real world simulators. The racing games here are also the favorite video games that I played
 
 ## Other types of Racing Franchises or series
 
