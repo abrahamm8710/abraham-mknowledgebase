@@ -24,5 +24,5 @@ I enjoyed this game a lot because it was the first Sonic game to ever allow a ch
 
 ## Related Pages
 
-- [[shooters/index|index]]
+- [[shooters/index|Shooter Games]]
 - [[Fortnite]]
