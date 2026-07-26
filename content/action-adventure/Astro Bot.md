@@ -30,3 +30,5 @@ Astro Bot is one of my favorite games it combines fun and engaging gameplay with
 - [[Horizon Forbidden West]]
 - [[007 First Light (2026)]]
 - [[Super Mario Odyssey]]
+- [[Stellar Blade]]
+- [[Sonic X Shadow Generations]]
