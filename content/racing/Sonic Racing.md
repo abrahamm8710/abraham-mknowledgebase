@@ -32,12 +32,13 @@ Players race against each other using different characters and vehicles either i
 
 The Sonic Racing games have continued to be one of Sega's successful spin-off franchises based off of Sonic The Hedgehog.
 
-Other Racing Games to check out:
+## Related Racing Games
+
 - [[MotorStorm (PS3 exclusive)]]
 - [[Mario Kart]]
 - [[Need For Speed]]
 - [[Forza Horizon]]
 - [[Racing Game History]]
--  [[racing/index|Racing Games]]
+- [[racing/index|Racing Games]]
 
 

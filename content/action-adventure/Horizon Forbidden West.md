@@ -23,7 +23,7 @@ I enjoy this game because of the open environment because it offered a lot of pl
 
 ![[ZenithWP.jpg]]
 
-## Related Pages
+## Related Games
 
 - [[Horizon Zero Dawn]]
 - [[action-adventure/index|Action Adventure Games]]

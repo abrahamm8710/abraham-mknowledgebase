@@ -20,7 +20,7 @@ Horizon Zero Dawn is played from a third person perspective by combining open wo
 I enjoyed this game because it offered a interesting story set in sci-fi post apocalyptic world, while also being set in a era of ancient tribes. Combining two different worlds made it much more interesting for me to play this. Battling machines was my favorite part of the game because I like the concept of destroying robotic machines. Overall, the game is one of my favorite games that I ever played. 
 ![[zero-dawn45.jpg]]
 
-## Related Pages
+## Related Games
 - [[action-adventure/index|Action Adventure Games]]
 - [[Horizon Forbidden West]]
 - [[007 First Light (2026)]]

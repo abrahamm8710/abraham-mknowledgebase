@@ -20,7 +20,7 @@ Sonic 1991 is a side scrolling platformer game that focuses on speed and skill t
 
 I liked this game due to its music soundtrack, the soundtrack matched very well with the game in general. Despite not being born when it came in 1991, I still liked this game. During that era it was released in players were able to built momentum, sprint across stages, and rush through loops at high speed. Overall, this classic Sonic game is one of favorite games that I played due its gameplay and impact on video game history. 
 
-## Related Pages
+## Related Retro-Classic Games
 
 - [[Super Mario Bros (1985)]]
 - [[retro-classic/index|Retro Classic Games]]

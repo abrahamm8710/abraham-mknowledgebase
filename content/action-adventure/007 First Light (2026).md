@@ -23,7 +23,7 @@ The reason I like this game a lot is because it of its gameplay style. The idea 
 
 ![[007FirstLightGP1.jpg]]
 
-## Related Pages
+## Related Games
 
 - [[Astro Bot]]
 - [[Horizon Zero Dawn]]

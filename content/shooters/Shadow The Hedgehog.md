@@ -22,7 +22,7 @@ I enjoyed this game a lot because it was the first Sonic game to ever allow a ch
 
 ![[Shadow-05.jpg]]
 
-## Related Pages
+## Related Games
 
 - [[shooters/index|Shooter Games]]
 - [[Fortnite]]

@@ -19,3 +19,6 @@ https://games.gg/007-first-light/guides/007-first-light-guide-to-story-backgroun
 https://www.mariowiki.com/Super_Mario_Odyssey#Gameplay
 https://fortnite.fandom.com/wiki/Fortnite:_Battle_Royale#Gameplay
 https://sonic.fandom.com/wiki/Sonic_the_Hedgehog_(1991)
+https://geometry-dash-fan.fandom.com/wiki/Geometry_Dash_Fan_Wiki
+https://kids.kiddle.co/Geometry_Dash
+https://annapurnainteractive.com/games/stray

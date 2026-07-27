@@ -23,7 +23,7 @@ As players progress throughout the game, Astro Bot obtains new abilities and pow
 
 Astro Bot is one of my favorite games it combines fun and engaging gameplay with amazing level design. Every level I played throughout this game brough out a different mechanic and challenge, making the overall gameplay feel fresh from start to finish. I also liked how this game pays tribute to the history of PlayStation by including many games and characters from PlayStation's history. I also like Astro Bot due to its amazing graphics, easy controls, its amazing music soundtrack, which made the gameplay unique and fun to enjoy. Its one of my favorite PlayStation games. 
 
-## Related Pages
+## Related Games
 
 - [[action-adventure/index|Action Adventure Games]]
 - [[Horizon Zero Dawn]]

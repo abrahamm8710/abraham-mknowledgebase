@@ -25,7 +25,7 @@ The reason I liked this game is because of its melee gameplay and detailed graph
 
 ![[Stellar-Blade3.jpg]]
 
-## Related Pages
+## Related Games
 
 - [[action-adventure/index|Action Adventure Games]]
 - [[Horizon Zero Dawn]]

@@ -12,7 +12,7 @@ Mario Kart is a racing video game series that was developed and created by Ninte
 ## Gameplay
 
 Players get to race as many different characters within the Mario universe, and use items such as mushrooms, shells, items to attack and gain an advantage over opponents to get first place. 
-
+![[Mario-KartWii3.png]]
 ### Popular Games within the Mario Kart Franchise
 
 - Mario Kart Wii
@@ -21,9 +21,12 @@ Players get to race as many different characters within the Mario universe, and 
 - Super Mario Kart
 - Mario Kart Double Dash
 
+| ![[71nP53cjs7L.png|300]] | ![[Mario_Kart_DS_cover.png|300]] |
+
 >The Mario Kart franchise is considered to be one of the most popular racing franchises out there.
 
-See other Racing games:
+## See other Racing games:
+
 - [[Forza Horizon]]
 - [[Sonic Racing]]
 - [[MotorStorm (PS3 exclusive)]]

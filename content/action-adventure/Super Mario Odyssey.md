@@ -24,7 +24,7 @@ I like this game because it offered something new that wasn't seen in previous 3
 
 ![[Mario-Odyssey45.png]]
 
-## Related Pages
+## Related Games
 
 - [[007 First Light (2026)]]
 - [[Astro Bot]]

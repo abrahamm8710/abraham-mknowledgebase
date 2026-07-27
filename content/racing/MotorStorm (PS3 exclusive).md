@@ -12,6 +12,8 @@ MotorStorm is an off-road racing game series that was developed by the now-defun
 
 MotorStorm is different from other racing games because one of its unique features is that each vehicle type has its own strengths and weaknesses. Motorcycles are fast and easy to steer but are fragile, while large vehicles such as trucks are slower but are stronger, it also contains a boost and overheat mechanic. Holding the boost to long can overheat the engine, either slowing you down or causing a explosion. 
 
+![[motorstorm-apocalypse1.png]]
+
 ### MotorStorm Games in the Series
 
 - **MotorStorm (2006)**: First game in the franchise and the original off-road festival set in Monument Valley.
@@ -23,9 +25,13 @@ MotorStorm is different from other racing games because one of its unique featur
 
 > MotorStorm is often remembered as one of PlayStation 3's most impressive racing franchises from a visual standpoint.
 
+![[motorstorm2.png]]
+
 ## The Legacy of MotorStorm
 
 Despite the series not having released a new game in many years with the last release back in 2012, It was still considered to be one of the best arcade racing franchises out there for its destructive environments and gameplay. 
+
+![[motorstorm-arctic-edge-03.png]]
 
 See other racing games:
 
@@ -34,4 +40,5 @@ See other racing games:
 - [[Need For Speed]]
 - [[Racing Game History]]
 - [[Forza Horizon]]
+- 
 

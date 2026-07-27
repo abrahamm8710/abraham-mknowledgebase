@@ -36,7 +36,8 @@ In the Forza Horizon Series, players are able to drive on a open world environme
 
 Xbox Game Studios has continued to still developed and release more games due to it success with the latest release of Forza Horizon 6.
 
-Other racing games:
+## Related Racing Games
+
 - [[Need For Speed]]
 - [[Sonic Racing]]
 - [[Mario Kart]]

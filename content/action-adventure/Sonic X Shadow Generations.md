@@ -21,7 +21,7 @@ I enjoyed this game because it allows to play as three different characters such
 
 ![[SonicGenGP2.jpg]]
 
-## Related Pages
+## Related Games
 - [[action-adventure/index|Action Adventure Games]]
 - [[Horizon Zero Dawn]]
 - [[Horizon Forbidden West]]

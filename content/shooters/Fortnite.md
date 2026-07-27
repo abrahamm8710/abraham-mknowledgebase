@@ -23,7 +23,7 @@ The reason I enjoy this game is because of its collaborations with other IPs or 
 
 ![[fnbr-ch2remix-screenshot-4.png]]
 
-## Related Pages
+## Related Games
 
 - [[Shadow The Hedgehog]]
 - [[shooters/index|Shooter Games]]
