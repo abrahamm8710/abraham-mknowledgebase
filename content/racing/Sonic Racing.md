@@ -27,8 +27,10 @@ Players race against each other using different characters and vehicles either i
 	- _Sonic Riders_ (GameCube, PS2, Xbox, PC)
 	- _Sonic Riders: Zero Gravity_ (Wii, PS2)
 	- _Sonic Free Riders_ (Xbox 360 Kinect) 
+
+
 | ![[Gameart-SonicTransformed.jpg| 300]] | ![[SonicRider-Zero.jpg|300]] |
-| ![[CrossworldCover.png|300]] | ![[SFRCoverArt.png|300]] 
+| ![[CrossworldCover.png|300]] | ![[SFRCoverArt.png|300]] |
 ## Legacy of the Sonic Racing Series
 
 The Sonic Racing games have continued to be one of Sega's successful spin-off franchises based off of Sonic The Hedgehog.
