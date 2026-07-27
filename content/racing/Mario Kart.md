@@ -1,5 +1,6 @@
 ---
 title: Mario Kart
+date: 2026-07-26
 ---
 
 ## Overview of Mario Kart 

@@ -1,5 +1,6 @@
 ---
 title: Sonic X Shadow Generations
+date: 2026-07-26
 ---
 
 # Sonic X Shadow Generations

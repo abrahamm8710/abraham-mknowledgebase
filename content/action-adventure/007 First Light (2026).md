@@ -1,5 +1,6 @@
 ---
 title: 007 First Light (2026)
+date: 2026-07-26
 ---
 
 # 007 First Light

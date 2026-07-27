@@ -1,8 +1,11 @@
+---
+title: References
+date: 2026-07-26
+---
 
+# References
 
-
-
-
+Below is a list of all the references I used to search up the information for each game.
 
 https://www.playstation.com/en-sg/games/stellar-blade/
 https://horizon.fandom.com/wiki/Horizon_Zero_Dawn

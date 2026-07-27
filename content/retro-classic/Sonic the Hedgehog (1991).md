@@ -1,5 +1,6 @@
 ---
 title: Sonic the Hedgehog (1991)
+date: 2026-07-26
 ---
 
 # Sonic The Hedgehog 1991

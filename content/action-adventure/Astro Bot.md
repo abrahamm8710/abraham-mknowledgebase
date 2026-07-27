@@ -1,5 +1,6 @@
 ---
 title: Astro Bot
+date: 2026-07-26
 ---
 
 # Astro Bot

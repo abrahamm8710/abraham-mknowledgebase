@@ -1,5 +1,6 @@
 ---
 title: Shadow The Hedgehog (2005)
+date: 2026-07-26
 ---
 
 # Shadow The Hedgehog

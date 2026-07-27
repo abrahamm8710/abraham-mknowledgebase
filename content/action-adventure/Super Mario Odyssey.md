@@ -1,5 +1,6 @@
 ---
 title: Super Mario Odyssey
+date: 2026-07-26
 ---
 
 # Super Mario Odyssey 

@@ -1,5 +1,6 @@
 ---
 title: Forza Horizon (Xbox)
+date: 2026-07-26
 ---
 
 ## Overview of Forza Horizon Series on Xbox Consoles

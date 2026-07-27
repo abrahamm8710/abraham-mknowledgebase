@@ -1,5 +1,6 @@
 ---
 title: Sonic Racing
+date: 2026-07-26
 ---
 
 ## Overview of the Sonic Racing Series

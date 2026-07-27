@@ -1,5 +1,6 @@
 ---
 title: MotorStorm (PS3 Exclusive)
+date: 2026-07-26
 ---
 
 ## Overview of the MotorStorm Franchise exclusive to the PlayStation Franchise

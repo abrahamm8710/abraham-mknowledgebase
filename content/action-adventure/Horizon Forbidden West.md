@@ -1,5 +1,6 @@
 ---
 title: Horizon Forbidden West
+date: 2026-07-26
 ---
 
 # Horizon Forbidden West 

@@ -1,5 +1,6 @@
 ---
 title: New Super Mario Bros. Wii
+date: 2026-07-26
 ---
 
 # New Super Mario Bros. Wii

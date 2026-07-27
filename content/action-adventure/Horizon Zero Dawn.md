@@ -1,5 +1,6 @@
 ---
 title: Horizon Zero Dawn
+date: 2026-07-26
 ---
 
 # Horizon Zero Dawn

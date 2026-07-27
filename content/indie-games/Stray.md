@@ -1,5 +1,6 @@
 ---
 title: Stray
+date: 2026-07-26
 ---
 
 # Stray

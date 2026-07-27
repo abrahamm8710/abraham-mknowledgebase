@@ -1,5 +1,6 @@
 ---
 title: Geometry Dash
+date: 2026-07-26
 ---
 
 # Geometry Dash

@@ -1,5 +1,6 @@
 ---
 title: Fortnite Battle Royale
+date: 2026-07-26
 ---
 
 # Fortnite Battle Royale

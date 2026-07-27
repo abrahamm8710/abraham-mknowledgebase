@@ -1,5 +1,6 @@
 ---
 title: Super Mario Bros (1985)
+date: 2026-07-26
 ---
 
 ![[marioBros1985-1.png|400]]

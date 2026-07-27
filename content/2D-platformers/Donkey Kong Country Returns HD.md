@@ -1,5 +1,6 @@
 ---
 title: Donkey Kong Country Returns HD
+date: 2026-07-26
 ---
 
 # Donkey Kong Country Returns HD
