@@ -10,7 +10,7 @@ date: 2026-07-26
 
 Developed and published by Epic Games, Fortnite Battle Royale is a free to play online shooter battle royale game released in 2017. 100 players are dropped onto an instant and they fight and build to be the last one standing on the island. Throughout the match players must collect weapons, resources, equipment to fight one another and avoid the ever-shrinking storm that forces everyone closer together. The game is also known for its art style, live in game events, collaborations with popular IPs, and new seasons. 
 
-![[Chapter_5_Season_1_Big_Bang_Battle_Pass_Outfits_-_Promo_-_Fortnite.png| 610]]
+![[Chapter_5_Season_1_Big_Bang_Battle_Pass_Outfits_-_Promo_-_Fortnite.png|600]]
 
 ## Gameplay 
 
