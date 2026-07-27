@@ -1,5 +1,6 @@
 ---
 title: Racing Games
+date: 2026-07-26
 ---
 
 ## About Racing Games
@@ -10,7 +11,7 @@ This category will explore different types of racing games, their game history, 
 
 There are some racing games that include exploration and storytelling elements similar to [[action-adventure/index|Action Adventure Games]].
 
-## Pages in This Category
+## Games in this Category
 
 - [[Mario Kart]]
 - [[Forza Horizon]]
